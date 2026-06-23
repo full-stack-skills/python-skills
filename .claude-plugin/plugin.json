@@ -6,8 +6,8 @@
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
   },
-  "homepage": "https://github.com/full-statck-skills/python-skills",
-  "repository": "https://github.com/full-statck-skills/python-skills",
+  "homepage": "https://github.com/full-stack-skills/python-skills",
+  "repository": "https://github.com/full-stack-skills/python-skills",
   "source": "./",
   "skills": [
     "./skills/django",

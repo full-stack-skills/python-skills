@@ -1,7 +1,7 @@
 ---
 name: fastapi
 description: Provides comprehensive guidance for FastAPI framework including routing, request validation, dependency injection, async operations, OpenAPI documentation, and database integration. Use when the user asks about FastAPI, needs to create FastAPI applications, implement REST APIs, or build high-performance Python web services.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

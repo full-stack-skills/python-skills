@@ -1,7 +1,7 @@
 ---
 name: django
 description: Provides comprehensive guidance for Django framework including models, views, templates, forms, admin, REST framework, and deployment. Use when the user asks about Django, needs to create Django applications, implement models and views, or build Django REST APIs.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

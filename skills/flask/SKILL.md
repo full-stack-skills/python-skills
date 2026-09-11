@@ -1,7 +1,7 @@
 ---
 name: flask
 description: Provides comprehensive guidance for Flask framework including routing, templates, forms, database integration, extensions, and deployment. Use when the user asks about Flask, needs to create Flask applications, implement web routes, or build Python web applications.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

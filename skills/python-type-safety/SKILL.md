@@ -1,7 +1,12 @@
 ---
 name: python-type-safety
 description: Python type safety with type hints, generics, protocols, and strict type checking. Use when adding type annotations, implementing generic classes, defining structural interfaces, or configuring mypy/pyright.
+license: MIT
 ---
+
+> **来源声明**：本技能内容源自 [wshobson/agents](https://github.com/wshobson/agents)
+> （MIT License, Copyright (c) 2024 Seth Hobson；完整许可文本见同目录 `LICENSE.txt`）。
+> 使用、修改与再分发须遵守该 MIT 许可条款并保留版权声明。
 
 ## 中文描述
 

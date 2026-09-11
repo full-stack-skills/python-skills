@@ -1,8 +1,12 @@
 ---
 name: architecture-patterns
 description: Implement proven backend architecture patterns including Clean Architecture, Hexagonal Architecture, and Domain-Driven Design. Use this skill when designing clean architecture for a new microservice, when refactoring a monolith to use bounded contexts, when implementing hexagonal or onion architecture patterns, or when debugging dependency cycles between application layers.
+license: MIT
 ---
 
+> **来源声明**：本技能内容源自 [wshobson/agents](https://github.com/wshobson/agents)
+> （MIT License, Copyright (c) 2024 Seth Hobson；完整许可文本见同目录 `LICENSE.txt`）。
+> 使用、修改与再分发须遵守该 MIT 许可条款并保留版权声明。
 
 ## 中文描述
 

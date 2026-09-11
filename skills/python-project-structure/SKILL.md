@@ -1,8 +1,12 @@
 ---
 name: python-project-structure
 description: Python project organization, module architecture, and public API design. Use when setting up new projects, organizing modules, defining public interfaces with __all__, or planning directory layouts.
+license: MIT
 ---
 
+> **来源声明**：本技能内容源自 [wshobson/agents](https://github.com/wshobson/agents)
+> （MIT License, Copyright (c) 2024 Seth Hobson；完整许可文本见同目录 `LICENSE.txt`）。
+> 使用、修改与再分发须遵守该 MIT 许可条款并保留版权声明。
 
 ## 中文描述
 

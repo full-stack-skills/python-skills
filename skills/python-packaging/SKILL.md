@@ -1,8 +1,12 @@
 ---
 name: python-packaging
 description: Create distributable Python packages with proper project structure, setup.py/pyproject.toml, and publishing to PyPI. Use when packaging Python libraries, creating CLI tools, or distributing Python code.
+license: MIT
 ---
 
+> **来源声明**：本技能内容源自 [wshobson/agents](https://github.com/wshobson/agents)
+> （MIT License, Copyright (c) 2024 Seth Hobson；完整许可文本见同目录 `LICENSE.txt`）。
+> 使用、修改与再分发须遵守该 MIT 许可条款并保留版权声明。
 
 ## 中文描述
 

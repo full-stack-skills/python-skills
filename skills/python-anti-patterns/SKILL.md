@@ -1,8 +1,12 @@
 ---
 name: python-anti-patterns
 description: Use this skill when reviewing Python code for common anti-patterns to avoid. Use as a checklist when reviewing code, before finalizing implementations, or when debugging issues that might stem from known bad practices.
+license: MIT
 ---
 
+> **来源声明**：本技能内容源自 [wshobson/agents](https://github.com/wshobson/agents)
+> （MIT License, Copyright (c) 2024 Seth Hobson；完整许可文本见同目录 `LICENSE.txt`）。
+> 使用、修改与再分发须遵守该 MIT 许可条款并保留版权声明。
 
 ## 中文描述
 

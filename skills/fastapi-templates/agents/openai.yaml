@@ -1,0 +1,4 @@
+interface:
+  display_name: "FastAPI Templates"
+  short_description: "Create production-ready FastAPI projects with async patterns…"
+  default_prompt: "Use $fastapi-templates to help with my current task: Create production-ready FastAPI projects with async patterns, dependency injection, and comprehensive error handling."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Architecture Patterns"
+  short_description: "Implement proven backend architecture patterns including Clean…"
+  default_prompt: "Use $architecture-patterns to help with my current task: Implement proven backend architecture patterns including Clean Architecture, Hexagonal Architecture, and Domain-Driven Design."

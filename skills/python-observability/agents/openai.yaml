@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python Observability"
+  short_description: "Python observability patterns including structured logging…"
+  default_prompt: "Use $python-observability to help with my current task: Python observability patterns including structured logging, metrics, and distributed tracing."

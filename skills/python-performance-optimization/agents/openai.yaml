@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python Performance Optimization"
+  short_description: "Profile and optimize Python code using cProfile, memory…"
+  default_prompt: "Use $python-performance-optimization to help with my current task: Profile and optimize Python code using cProfile, memory profilers, and performance best practices."

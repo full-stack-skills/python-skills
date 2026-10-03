@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python Configuration"
+  short_description: "Python configuration management via environment variables and…"
+  default_prompt: "Use $python-configuration to help with my current task: Python configuration management via environment variables and typed settings."

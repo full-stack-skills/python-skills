@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python Background Jobs"
+  short_description: "Python background job patterns including task queues, workers…"
+  default_prompt: "Use $python-background-jobs to help with my current task: Python background job patterns including task queues, workers, and event-driven architecture."

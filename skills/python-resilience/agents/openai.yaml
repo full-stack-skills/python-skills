@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python Resilience"
+  short_description: "Python resilience patterns including automatic retries…"
+  default_prompt: "Use $python-resilience to help with my current task: Python resilience patterns including automatic retries, exponential backoff, timeouts, and fault-tolerant decorators."

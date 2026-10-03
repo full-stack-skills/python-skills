@@ -1,0 +1,4 @@
+interface:
+  display_name: "Django"
+  short_description: "Django framework including models, views, templates, forms…"
+  default_prompt: "Use $django to help with my current task: Provides comprehensive guidance for Django framework including models, views, templates, forms, admin, REST framework, and deployment."

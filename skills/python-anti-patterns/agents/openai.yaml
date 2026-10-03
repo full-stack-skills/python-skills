@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python Anti Patterns"
+  short_description: "Use this skill when reviewing Python code for common…"
+  default_prompt: "Use $python-anti-patterns to help with my current task: Use this skill when reviewing Python code for common anti-patterns to avoid."

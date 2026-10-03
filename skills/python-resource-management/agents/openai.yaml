@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python Resource Management"
+  short_description: "Python resource management with context managers, cleanup…"
+  default_prompt: "Use $python-resource-management to help with my current task: Python resource management with context managers, cleanup patterns, and streaming."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python Error Handling"
+  short_description: "Python error handling patterns including input validation…"
+  default_prompt: "Use $python-error-handling to help with my current task: Python error handling patterns including input validation, exception hierarchies, and partial failure handling."

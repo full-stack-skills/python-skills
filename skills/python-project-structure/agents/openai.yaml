@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python Project Structure"
+  short_description: "Python project organization, module architecture, and public…"
+  default_prompt: "Use $python-project-structure to help with my current task: Python project organization, module architecture, and public API design."

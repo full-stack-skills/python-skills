@@ -1,0 +1,4 @@
+interface:
+  display_name: "FastAPI"
+  short_description: "FastAPI framework including routing, request validation…"
+  default_prompt: "Use $fastapi to help with my current task: Provides comprehensive guidance for FastAPI framework including routing, request validation, dependency injection, async operations, OpenAPI documentation, and database integration."

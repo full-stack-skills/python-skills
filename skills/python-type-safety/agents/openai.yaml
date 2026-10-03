@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python Type Safety"
+  short_description: "Python type safety with type hints, generics, protocols, and…"
+  default_prompt: "Use $python-type-safety to help with my current task: Python type safety with type hints, generics, protocols, and strict type checking."

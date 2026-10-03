@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python Code Style"
+  short_description: "Python code style, linting, formatting, naming conventions…"
+  default_prompt: "Use $python-code-style to help with my current task: Python code style, linting, formatting, naming conventions, and documentation standards."

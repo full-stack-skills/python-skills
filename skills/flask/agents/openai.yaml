@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flask"
+  short_description: "Flask framework including routing, templates, forms, database…"
+  default_prompt: "Use $flask to help with my current task: Provides comprehensive guidance for Flask framework including routing, templates, forms, database integration, extensions, and deployment."
